@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package notaser;
 
 import java.util.Scanner;
@@ -14,11 +11,11 @@ import javax.swing.JOptionPane;
 public class NOTASER {
 
     /**
-     * @param args the command line arguments
+     * 
      */
     /**
      *
-     * @param args
+     * 
      */
    public static void main(String[] args) {
     
